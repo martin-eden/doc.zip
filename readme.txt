@@ -4,8 +4,8 @@ Documentation of format of .zip files
 This is a documentation for .zip files format. Both in .txt and .pdf
 formats.
 
-.pdf versions was created by me for easy printing. Not sure it needs
-license.
+.pdf versions was created by me for easy printing. Not sure if they
+need license.
 
 Text authorship should belong to InfoZip.
 
