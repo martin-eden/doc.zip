@@ -12,6 +12,5 @@ Text authorship should belong to InfoZip.
   appnote.txt - overall structure
   extrafld.txt - description of extra fields
 
-In case you have more recent versions, let me know via "issues".
-
-2017-08-15
+2017-08-15,
+2020-09-13
